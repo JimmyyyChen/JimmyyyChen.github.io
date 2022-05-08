@@ -1,0 +1,93 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Body_83",
+            "scale" : [
+                0.07000000029802322,
+                0.07000000029802322,
+                0.07000000029802322
+            ]
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh_0",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 5164,
+            "max" : [
+                43.03242111206055,
+                54.59149169921875,
+                14.393892288208008
+            ],
+            "min" : [
+                3.1244349479675293,
+                0.21548500657081604,
+                1.6759099960327148
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 5164,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5123,
+            "count" : 5214,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 61968,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 61968,
+            "byteOffset" : 61968
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10428,
+            "byteOffset" : 123936
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 134364,
+            "uri" : "hii.bin"
+        }
+    ]
+}
