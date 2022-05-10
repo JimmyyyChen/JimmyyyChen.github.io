@@ -1,0 +1,99 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Body_74",
+            "rotation" : [
+                -0.7071067094802856,
+                0,
+                0,
+                0.7071067690849304
+            ],
+            "scale" : [
+                0.10000000149011612,
+                0.10000000149011612,
+                0.10000000149011612
+            ]
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh_5",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 5136,
+            "max" : [
+                6.212224006652832,
+                15.61252212524414,
+                13.88204574584961
+            ],
+            "min" : [
+                -15.166062355041504,
+                -12.609801292419434,
+                5.650303840637207
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 5136,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5123,
+            "count" : 5136,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 61632,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 61632,
+            "byteOffset" : 61632
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10272,
+            "byteOffset" : 123264
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 133536,
+            "uri" : "hiii.bin"
+        }
+    ]
+}
